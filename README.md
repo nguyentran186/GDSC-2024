@@ -119,7 +119,7 @@ This project is designed to be run in Google Colab and Python IDE. After cloning
 ### AI flow
 ![image](https://github.com/hungmeomeo/poscify-mobile/assets/95847972/6219dfaa-b0a5-4c09-b630-716ac4f204a2)
 
-## backend API for hunchback-detection
+# Backend API for hunchback-detection
 A lightweight posture classifier using frontal camera images. Provide API for frontend using client-server method with framework Flask of Python.
 
 ## Dependencies
